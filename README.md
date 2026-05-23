@@ -1,6 +1,6 @@
 <p align="center"><img src="https://raw.githubusercontent.com/hlysine/create_connected/main/src/main/resources/create_connected_icon.png" alt="Logo" width="128"></p>
 
-<h1 align="center">Create: Connected</h1>
+<h1 align="center"> <a href="https://github.com/hlysine/create_connected">Create: Connected</a> </h1>
 
 <p align="center">
 <a title="Supported versions" target="_blank" href="https://modrinth.com/mod/create-connected/"><img src="https://cf.way2muchnoise.eu/versions/947914_all.svg"></a>
