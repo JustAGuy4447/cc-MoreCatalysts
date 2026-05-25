@@ -4,6 +4,7 @@
 
 <p align="center">
 <a title="Supported versions" target="_blank" href="https://modrinth.com/mod/create-connected/"><img src="https://cf.way2muchnoise.eu/versions/947914_all.svg"></a>
+<a title="Original GitHub Repository" target="_blank" href="https://github.com/hlysine/create_connected"><img src="https://img.shields.io/badge/Original_GitHub_Repository-black?logo=github"></a>
 <a title="Modrinth" target="_blank" href="https://modrinth.com/mod/create-connected/"><img src="https://img.shields.io/modrinth/dt/Vg5TIO6d?style=flat&label=Modrinth"></a>
 <a title="CurseForge" target="_blank" href="https://www.curseforge.com/minecraft/mc-mods/create-connected"><img src="https://img.shields.io/curseforge/dt/947914?style=flat&label=CurseForge"></a>
 <a title="Crowdin" target="_blank" href="https://crowdin.com/project/create-connected-mod"><img src="https://badges.crowdin.net/create-connected-mod/localized.svg"></a>
